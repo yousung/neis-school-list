@@ -32,6 +32,14 @@ school("고기").then(list => console.log(list));
 }
 ```
 
+# Sample Code
+
+```
+yarn sample
+or
+npm sample
+```
+
 # TEST
 
 ```

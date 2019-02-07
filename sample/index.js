@@ -1,4 +1,4 @@
-const school = require("./api");
+const school = require("../api");
 
 /**
  * 학교명을 입력하면 학교 리스트를 반환

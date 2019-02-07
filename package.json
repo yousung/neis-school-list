@@ -5,7 +5,7 @@
   "main": "api.js",
   "scripts": {
     "test": "jest",
-    "start": "node ./index"
+    "sample": "node ./sample"
   },
   "keywords": [
     "neis",
