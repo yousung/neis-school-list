@@ -15,10 +15,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yousung/neis-school-code"
+    "url": "git+https://github.com/yousung/neis-school-list"
   },
   "bugs": {
-    "url": "https://github.com/yousung/neis-school-code/issues"
+    "url": "https://github.com/yousung/neis-school-list/issues"
   },
   "author": "Lovizu (nug22kr@gmail.com)",
   "license": "MIT",
