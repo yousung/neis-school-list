@@ -1,0 +1,33 @@
+{
+  "name": "neis-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node ./index"
+  },
+  "keywords": [
+    "neis",
+    "school",
+    "passing",
+    "korea"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yousung/neis-school-code"
+  },
+  "bugs": {
+    "url": "https://github.com/yousung/neis-school-code/issues"
+  },
+  "author": "Lovizu (nug22kr@gmail.com)",
+  "license": "MIT",
+  "dependencies": {
+    "Promise": "^1.0.5",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {
+    "jest": "^24.1.0"
+  }
+}
